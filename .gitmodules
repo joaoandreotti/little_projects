@@ -1,0 +1,9 @@
+[submodule "minichain"]
+	path = minichain
+	url = https://github.com/joaoandreotti/minichain
+[submodule "file_crypto"]
+	path = file_crypto
+	url = https://github.com/joaoandreotti/file_crypto
+[submodule "spyoofer"]
+	path = spyoofer
+	url = https://github.com/joaoandreotti/spyoofer
