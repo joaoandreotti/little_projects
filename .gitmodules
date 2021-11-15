@@ -7,3 +7,6 @@
 [submodule "spyoofer"]
 	path = spyoofer
 	url = https://github.com/joaoandreotti/spyoofer
+[submodule "mini-m4-l"]
+	path = mini-m4-l
+	url = https://github.com/joaoandreotti/mini-m4-l
